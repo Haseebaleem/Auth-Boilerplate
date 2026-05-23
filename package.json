@@ -1,0 +1,50 @@
+{
+  "name": "auth-boilerplate",
+  "version": "1.0.0",
+  "description": "Production-ready Node.js + Express + PostgreSQL + Prisma authentication boilerplate with JWT (access + refresh), bcrypt, and Zod validation.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "prisma:generate": "prisma generate",
+    "prisma:migrate": "prisma migrate dev",
+    "prisma:studio": "prisma studio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haseebaleem/auth-boilerplate.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "postgresql",
+    "prisma",
+    "jwt",
+    "auth",
+    "boilerplate",
+    "bcrypt",
+    "zod"
+  ],
+  "author": "Haseeb Aleem <haseebaleem2802@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Haseebaleem/auth-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Haseebaleem/auth-boilerplate#readme",
+  "dependencies": {
+    "@prisma/client": "^6.19.3",
+    "bcryptjs": "^3.0.3",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "nodemon": "^3.1.14",
+    "prisma": "^6.19.3"
+  }
+}
