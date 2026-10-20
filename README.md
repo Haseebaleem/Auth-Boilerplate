@@ -309,7 +309,7 @@ Senior Full Stack Developer & Team Lead
 - 💼 **LinkedIn:** [linkedin.com/in/haseeb-aleem-dev](https://www.linkedin.com/in/haseeb-aleem-dev/)
 - 💻 **GitHub:** [github.com/Haseebaleem](https://github.com/Haseebaleem)
 - 📧 **Email:** haseebaleem2802@gmail.com
-- 📍 **Location:** Multan, Pakistan (Open to Saudi Arabia & GCC relocation)
+- 📍 **Location:** Riyadh, Saudi Arabia
 
 ---
 
